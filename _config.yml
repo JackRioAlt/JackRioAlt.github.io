@@ -1,17 +1,17 @@
-url: https://y7kim.github.io
+url: https://JackRioAlt.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Edge Orbito Solutions
+email: edge.orbito@gmail.com
+description: "We specialized in precision joining requirements. Powered by Orbitalum SS Tube joining machine with remarkable joining capacity ranging from 4mm to 38.1mm. This rental machine is offered for both rental and job work service."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Tukaram Vyawahare
   pic: 1
-  position: Lead Designer
+  position: Chief Executive Officer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Sanyog Vyawahare
   pic: 2
-  position: Lead Marketer
+  position: Website Development
   social:
     - title: twitter
       url: #
@@ -31,16 +31,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -57,8 +47,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: RL-170, Bajaj Nagar, MIDC, Wakuj, Aurangabad
+  - line: 431136, Maharashtra
 
 # Build settings
 markdown: kramdown
