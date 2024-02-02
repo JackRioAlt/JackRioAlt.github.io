@@ -1,5 +1,5 @@
 ---
-title: Orbitalum Welding
+title: Edge Orbito Solutions
 subtitle: Machine Information
 layout: default
 modal-id: 1
