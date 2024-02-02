@@ -5,6 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 pdf: 1.pdf
+img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 description: The PDF above will provide you with detailed information on the machine and its uses. You can check the specifications and usability of the machine above.
