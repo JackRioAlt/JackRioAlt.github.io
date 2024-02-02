@@ -5,6 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: 1.jpeg
+pdf: 2.pdf
 thumbnail: 2.jpeg
 alt: image-alt
 description: Here you can see the machines available with us for your rental and job work.
